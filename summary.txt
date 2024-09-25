@@ -1,0 +1,32 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+    
+    I choose Node.js/Express.js for this coding exercise because Express.js is lightweight and easy to set up, 
+    making it a great choice for small application like this one. This tech stack allowed me to get this 
+    particular job done without too much technical overhead.
+
+
+2. What are the advantages and disadvantages of your solution?
+
+    Advantages:
+        - This solution is fast and scalable while maintaining simplicity.
+        - It does an excellent job handling unexpected errors like data type mismatches or missing params.
+        - Not too much technical overhead for the developer due to the simplistic nature of the tech stack.
+    Disadvantages:
+        - All data is stored in memory meaning it is not durable; if the server gets killed, so does the data.
+        - Node.js is single-threaded so it may struggle with power-intensive tasks.
+
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+    This one is hard to answer since there has been a lot of projects I've loved so far. However, if I had to pick,
+    I would say AI image sharing web app I built with React, Go, and MongoDB. From this I learned a lot about 
+    backend development; particularly Go, user auth, databases, JSON web tokens, REST APIs, the cloud, and so much more. 
+    I can really see myself doing that in the long term.
+
+    The thing that challenged me about it was the fact that there were so many moving parts. I had to cover
+    authentication, authorization, cloud hosting, API development, connecting to a third party API, and so much more.
+    And thats not even covering the frontend aspects. Overall, I'm glad it challenged me because I genuinely think
+    that I have become a way better engineer because of it.  
+
+    Here is the link to the web app if you are curious: 'https://pixel-wizard-ai.netlify.app/'
+    Here is the link to the GitHub repo: 'https://github.com/sunnypatel314/Go-Backend-Pixel-Wizard'
