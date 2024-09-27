@@ -37,14 +37,19 @@ Ensure you have the following installed on your local machine:
    cd FetchRewardsBackendTest
    ```
 5) **Install dependencies**
+   - If you are on Windows, do this:
    ```
    npm install
    ```
-6) **Start server**
+   - If you are on Mac, do this:
+   ```
+   sudo npm install
+   ```
+7) **Start server**
    ```
    npm start
    ```
-7) **Verify you terminal reads the following:**
+8) **Verify you terminal reads the following:**
    ```
    Server running on port: http://localhost:8000
    ```
